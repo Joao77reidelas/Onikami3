@@ -1,0 +1,294 @@
+local OrionLib = loadstring(game:HttpGet(('https://raw.githubusercontent.com/shlexware/Orion/main/source')))()
+
+local Window = OrionLib:MakeWindow({
+    Name = "ADMs do onikami é doente mental😂",
+    HidePremium = false,
+    SaveConfig = true,
+    ConfigFolder = "N3nhum"
+})
+
+local Tab = Window:MakeTab({
+    Name = "Teleporte respiração",
+    Icon = "rbxassetid://4483345998",
+    PremiumOnly = false
+})
+
+local Section = Tab:AddSection({
+    Name = "atenção! Você vai ser resetado para teleportar instantâneamente"
+})
+
+Tab:AddButton({
+    Name = "Water💧",
+    Callback = function()
+game:GetService("Players").LocalPlayer.Character.Down.BindAfterReset:FireServer()
+wait(9)
+local humanoidRootPart = charact
+      local player = game.Players.LocalPlayer
+local character = player.Character or player.CharacterAdded:Wait()
+local humanoidRootPart = character:WaitForChild("HumanoidRootPart")
+
+humanoidRootPart.CFrame = CFrame.new(-866, 1736, -2235)
+    end
+})
+
+Tab:AddButton({
+    Name = "Thunder⚡",
+    Callback = function()
+game:GetService("Players").LocalPlayer.Character.Down.BindAfterReset:FireServer()
+wait(9)
+local humanoidRootPart = charact
+      local player = game.Players.LocalPlayer
+local character = player.Character or player.CharacterAdded:Wait()
+local humanoidRootPart = character:WaitForChild("HumanoidRootPart")
+
+humanoidRootPart.CFrame =
+CFrame.new(-1456, 1657, -3512)
+
+end
+})
+
+Tab:AddButton({
+    Name = "Flame🔥",
+    Callback = function()
+game:GetService("Players").LocalPlayer.Character.Down.BindAfterReset:FireServer()
+wait(9)
+local humanoidRootPart = charact
+      local player = game.Players.LocalPlayer
+local character = player.Character or player.CharacterAdded:Wait()
+local humanoidRootPart = character:WaitForChild("HumanoidRootPart")
+
+humanoidRootPart.CFrame =
+CFrame.new(-1396, 1737, -2782)
+
+end
+})
+
+Tab:AddButton({
+    Name = "insect🦋",
+    Callback = function()
+game:GetService("Players").LocalPlayer.Character.Down.BindAfterReset:FireServer()
+wait(9)
+local humanoidRootPart = charact
+      local player = game.Players.LocalPlayer
+local character = player.Character or player.CharacterAdded:Wait()
+local humanoidRootPart = character:WaitForChild("HumanoidRootPart")
+
+humanoidRootPart.CFrame =
+CFrame.new(1172, 1807, -992)
+
+end
+})
+
+Tab:AddButton({
+    Name = "Wind🌪️",
+    Callback = function()
+game:GetService("Players").LocalPlayer.Character.Down.BindAfterReset:FireServer()
+wait(9)
+local humanoidRootPart = charact
+      local player = game.Players.LocalPlayer
+local character = player.Character or player.CharacterAdded:Wait()
+local humanoidRootPart = character:WaitForChild("HumanoidRootPart")
+
+humanoidRootPart.CFrame =
+CFrame.new(-1521, 1925, -1807)
+
+end
+})
+
+Tab:AddButton({
+    Name = "Mist🌫️",
+    Callback = function()
+game:GetService("Players").LocalPlayer.Character.Down.BindAfterReset:FireServer()
+wait(9)
+local humanoidRootPart = charact
+      local player = game.Players.LocalPlayer
+local character = player.Character or player.CharacterAdded:Wait()
+local humanoidRootPart = character:WaitForChild("HumanoidRootPart")
+
+humanoidRootPart.CFrame =
+CFrame.new(341, 2010, -2836)
+
+end
+})
+
+Tab:AddButton({
+    Name = "Beast🐗",
+    Callback = function()
+game:GetService("Players").LocalPlayer.Character.Down.BindAfterReset:FireServer()
+wait(9)
+local humanoidRootPart = charact
+      local player = game.Players.LocalPlayer
+local character = player.Character or player.CharacterAdded:Wait()
+local humanoidRootPart = character:WaitForChild("HumanoidRootPart")
+
+humanoidRootPart.CFrame =
+CFrame.new(24, 1803, -1116)
+
+end
+})
+
+Tab:AddButton({
+    Name = "Sound🎶",
+    Callback = function()
+game:GetService("Players").LocalPlayer.Character.Down.BindAfterReset:FireServer()
+wait(9)
+local humanoidRootPart = charact
+      local player = game.Players.LocalPlayer
+local character = player.Character or player.CharacterAdded:Wait()
+local humanoidRootPart = character:WaitForChild("HumanoidRootPart")
+
+humanoidRootPart.CFrame =
+CFrame.new(1003, 1807, -877)
+
+end
+})
+
+Tab:AddButton({
+    Name = "Serpente/snake🐍",
+    Callback = function()
+game:GetService("Players").LocalPlayer.Character.Down.BindAfterReset:FireServer()
+wait(9)
+local humanoidRootPart = charact
+      local player = game.Players.LocalPlayer
+local character = player.Character or player.CharacterAdded:Wait()
+local humanoidRootPart = character:WaitForChild("HumanoidRootPart")
+
+humanoidRootPart.CFrame =
+CFrame.new(3667, 1749, -3044)
+
+end
+})
+
+Tab:AddButton({
+    Name = "Love🩷",
+    Callback = function()
+game:GetService("Players").LocalPlayer.Character.Down.BindAfterReset:FireServer()
+wait(9)
+local humanoidRootPart = charact
+      local player = game.Players.LocalPlayer
+local character = player.Character or player.CharacterAdded:Wait()
+local humanoidRootPart = character:WaitForChild("HumanoidRootPart")
+
+humanoidRootPart.CFrame =
+CFrame.new(868, 1884, 943)
+
+end
+})
+
+local Tab = Window:MakeTab({
+	Name = "Outros teleportes",
+	Icon = "rbxassetid://4483345998",
+	PremiumOnly = false
+})
+
+Tab:AddButton({
+    Name = "Register final selection",
+    Callback = function()
+game:GetService("Players").LocalPlayer.Character.Down.BindAfterReset:FireServer()
+wait(9)
+local humanoidRootPart = charact
+      local player = game.Players.LocalPlayer
+local character = player.Character or player.CharacterAdded:Wait()
+local humanoidRootPart = character:WaitForChild("HumanoidRootPart")
+
+humanoidRootPart.CFrame = CFrame.new(-222, 1780, -1177) 
+    end
+})
+
+Tab:AddButton({
+    Name = "Girls final selection",
+    Callback = function()
+game:GetService("Players").LocalPlayer.Character.Down.BindAfterReset:FireServer()
+wait(9)
+local humanoidRootPart = charact
+      local player = game.Players.LocalPlayer
+local character = player.Character or player.CharacterAdded:Wait()
+local humanoidRootPart = character:WaitForChild("HumanoidRootPart")
+
+humanoidRootPart.CFrame = CFrame.new(4833, 1826, -2022) 
+    end
+})
+
+Tab:AddButton({
+    Name = "Take mission defeat demons",
+    Callback = function()
+game:GetService("Players").LocalPlayer.Character.Down.BindAfterReset:FireServer()
+wait(9)
+local humanoidRootPart = charact
+      local player = game.Players.LocalPlayer
+local character = player.Character or player.CharacterAdded:Wait()
+local humanoidRootPart = character:WaitForChild("HumanoidRootPart")
+
+humanoidRootPart.CFrame = CFrame.new(1076, 1807, -2279) 
+    end
+})
+
+Tab:AddButton({
+    Name = "Teleport final selection location without mission(OP)",
+    Callback = function()
+game:GetService("Players").LocalPlayer.Character.Down.BindAfterReset:FireServer()
+wait(9)
+local humanoidRootPart = charact
+      local player = game.Players.LocalPlayer
+local character = player.Character or player.CharacterAdded:Wait()
+local humanoidRootPart = character:WaitForChild("HumanoidRootPart")
+
+humanoidRootPart.CFrame = CFrame.new(6405, 2009, -636) 
+    end
+})
+
+Tab:AddButton({
+    Name = "Get mission defeat Gyutaro",
+    Callback = function()
+game:GetService("Players").LocalPlayer.Character.Down.BindAfterReset:FireServer()
+wait(9)
+local humanoidRootPart = charact
+      local player = game.Players.LocalPlayer
+local character = player.Character or player.CharacterAdded:Wait()
+local humanoidRootPart = character:WaitForChild("HumanoidRootPart")
+
+humanoidRootPart.CFrame = CFrame.new(2682, 2233, -1354) 
+    end
+})
+
+Tab:AddButton({
+    Name = "Teleport Gyutaro",
+    Callback = function()
+game:GetService("Players").LocalPlayer.Character.Down.BindAfterReset:FireServer()
+wait(9)
+local humanoidRootPart = charact
+      local player = game.Players.LocalPlayer
+local character = player.Character or player.CharacterAdded:Wait()
+local humanoidRootPart = character:WaitForChild("HumanoidRootPart")
+
+humanoidRootPart.CFrame = CFrame.new(393, 1884, -189) 
+    end
+})
+
+Tab:AddButton({
+    Name = "Tamayo(Cure to become human)",
+    Callback = function()
+game:GetService("Players").LocalPlayer.Character.Down.BindAfterReset:FireServer()
+wait(9)
+local humanoidRootPart = charact
+      local player = game.Players.LocalPlayer
+local character = player.Character or player.CharacterAdded:Wait()
+local humanoidRootPart = character:WaitForChild("HumanoidRootPart")
+
+humanoidRootPart.CFrame = CFrame.new(-225, 1787, -398) 
+    end
+})
+
+Tab:AddButton({
+    Name = "fishing rod",
+    Callback = function()
+game:GetService("Players").LocalPlayer.Character.Down.BindAfterReset:FireServer()
+wait(9)
+local humanoidRootPart = charact
+      local player = game.Players.LocalPlayer
+local character = player.Character or player.CharacterAdded:Wait()
+local humanoidRootPart = character:WaitForChild("HumanoidRootPart")
+
+humanoidRootPart.CFrame = CFrame.new(-698, 1733, -2330) 
+    end
+})
